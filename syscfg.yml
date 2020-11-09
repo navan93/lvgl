@@ -1,0 +1,8 @@
+# System Configuration Setting Definitions:
+#   Below are the settings defined by this package and their default values.
+#   Strings must be enclosed by '"..."'
+
+syscfg.defs:
+    SPI_BAUDRATE:
+        description: 'Requested baudrate, value must be supported by SPI driver'
+        value: 0
